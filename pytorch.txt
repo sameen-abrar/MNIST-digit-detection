@@ -1,0 +1,33 @@
+Create pipeline.
+pytorch
+tensor
+matrix multiplication
+gradient - which weigh will be modified.
+back propagation
+	calculate gradient
+	weight adjust
+
+Connected graph
+matrices. brush up
+mnist digit detection.
+
+Assignment:
+Deep learning in Bio signals (ECG)
+problem statement
+transfer the imaging dataset champion model to biosignals.
+PhysioNet repo for data.
+
+AlexNet, ResNet(study)
+ImageNet dataset
+Keras Resnet model
+CNN Extraction part - MLP - Decision Layer
+
+Train 0 - 9 detection from scratch
+
+add decision layer over Resnet
+keep feature extraction layer.
+
+https://github.com/MIT-LCP/wfdb-python/blob/main/demo.ipynb
+pandas to csv
+
+
